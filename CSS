@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Degrade Azul para Branco</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #007bff, #ffffff);
+            /* Adiciona prefixos para navegadores mais antigos */
+            background: -webkit-linear-gradient(top, #007bff, #ffffff);
+            background: -moz-linear-gradient(top, #007bff, #ffffff);
+            background: -o-linear-gradient(top, #007bff, #ffffff);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Uma doceria temática de arara -->
+
+</body>
+</html>
