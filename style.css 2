@@ -8,7 +8,7 @@
         body {
             margin: 0;
             padding: 0;
-            background: url('caminho/para/sua/imagem/folhas.jpg') no-repeat center center fixed;
+            background: url('aquarela de moldura de eucalipto, moldura floral, moldura de vegetação, arranjo floral, composição de folhas verdes.jpeg') no-repeat center center fixed;
             background-size: cover;
         }
     </style>
